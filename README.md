@@ -99,9 +99,6 @@ To run the project locally, follow the instructions below:
 ---
 
 ## Future Improvements
-
-- **Multi-language support**:  
-  Expand to support **multiple languages** for text analysis (e.g., by utilizing more Azure language models).
   
 - **Text Summary**:  
   Implement a feature that summarizes the document content for faster insights.
