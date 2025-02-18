@@ -135,29 +135,24 @@ Below are the screenshots showing the document analysis results:
     _The top 20 most frequent words in the document including common (stop) words._
   
   - **Without Common Words**:
-    ![Word Frequency without Common Words](![3_Result](https://github.com/user-attachments/assets/b066fde2-461e-4585-bc18-75fd04beac61)
-)  
+    ![Word Frequency without Common Words](https://github.com/user-attachments/assets/b066fde2-461e-4585-bc18-75fd04beac61)  
     _The top 20 most frequent words in the document excluding common (stop) words._
 
 - **Extracted Text (Supports Multiple Languages)**:
   - **English**:
-    ![Extracted Text - English](![4_Result](https://github.com/user-attachments/assets/32bc3681-3d75-46b0-a664-7d37a931d049)
-)  
+    ![Extracted Text - English](https://github.com/user-attachments/assets/32bc3681-3d75-46b0-a664-7d37a931d049)  
     _The raw extracted text from the document in English._
 
   - **Marathi**:
-    ![Extracted Text - Marathi](![R_Marathi](https://github.com/user-attachments/assets/ba5c16f7-f8d6-4bd3-bf6d-f9ea68a87db4)
-)  
+    ![Extracted Text - Marathi](https://github.com/user-attachments/assets/ba5c16f7-f8d6-4bd3-bf6d-f9ea68a87db4)  
     _The raw extracted text from the document in Marathi._
 
   - **Sanskrit**:
-    ![Extracted Text - Sanskrit](![R_Sanskrut](https://github.com/user-attachments/assets/227b13fe-af10-406b-9494-2a01c12b8110)
-)  
+    ![Extracted Text - Sanskrit](https://github.com/user-attachments/assets/227b13fe-af10-406b-9494-2a01c12b8110)  
     _The raw extracted text from the document in Sanskrit._
 
   - **Hindi**:
-    ![Extracted Text - Hindi](![R_Hindi](https://github.com/user-attachments/assets/7cc50c8a-cc22-4f10-bf80-78dab0934a07)
-)  
+    ![Extracted Text - Hindi](https://github.com/user-attachments/assets/7cc50c8a-cc22-4f10-bf80-78dab0934a07)  
     _The raw extracted text from the document in Hindi._
 
 ---
