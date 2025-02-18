@@ -124,8 +124,8 @@ Below are the screenshots showing the document analysis results:
   _The main dashboard where users can upload documents and view analysis options._
 
 - **Document Statistics**:
-  ![Document Statistics](![2_Result](https://github.com/user-attachments/assets/cfe72770-593a-4e9a-a0cb-68ea5874cd40)
-)  
+  ![Document Statistics](![2_Result](https://github.com/user-attachments/assets/c374f78c-e9df-43b1-8d55-b70e39a682c8)
+)
   _Word count, sentence count, and average word length for a sample document._
 
 - **Word Frequency**:
