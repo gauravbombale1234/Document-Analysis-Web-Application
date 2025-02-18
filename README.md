@@ -124,8 +124,9 @@ Below are the screenshots showing the document analysis results:
   _The main dashboard where users can upload documents and view analysis options._
 
 - **Document Statistics**:
-  ![Document Statistics](https://drive.google.com/file/d/1fOpXoHh06Sy3J248_sEFD8vqM8CmbBwV/view?usp=sharing)
+  ![Document Statistics](https://drive.google.com/uc?export=view&id=1fOpXoHh06Sy3J248_sEFD8vqM8CmbBwV)
   _Word count, sentence count, and average word length for a sample document._
+
 
 - **Word Frequency**:
   - **With Common Words**:
